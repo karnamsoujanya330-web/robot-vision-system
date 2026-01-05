@@ -1,2 +1,15 @@
-# robot-vision-system
-An embedded robot vision system using OpenCV and Python for real-time object and color detection, demonstrating image processing techniques for robotic perception.
+## Robot Vision System
+
+### Description
+This project demonstrates a robot vision system using OpenCV for real-time color and object detection.
+
+### Tools Used
+- Python
+- OpenCV
+- Laptop Camera
+
+### Applications
+- Object tracking robots
+- Surveillance systems
+- Industrial inspection
+
